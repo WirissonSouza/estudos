@@ -1,0 +1,688 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fle",
+				"flex-wrap\tproperty"
+			],
+			[
+				"inlin",
+				"inline-block\tdisplay"
+			],
+			[
+				"padding",
+				"padding-right\tproperty"
+			],
+			[
+				"paddi",
+				"padding-right\tproperty"
+			],
+			[
+				"tra",
+				"translateX()\ttransform"
+			],
+			[
+				"getPo",
+				"getProximoIdLeitor"
+			],
+			[
+				"getPro",
+				"getProximaQtd"
+			],
+			[
+				"in",
+				"innerHTML"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"form-",
+				"form-control"
+			],
+			[
+				"form",
+				"form-text"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"margn",
+				"margin-left\tproperty"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"margi",
+				"margin-top\tproperty"
+			],
+			[
+				"tex",
+				"text-light"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"border",
+				"border-bottom\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"text-o",
+				"text-orientation\tproperty"
+			],
+			[
+				"backgr",
+				"background-size\tproperty"
+			],
+			[
+				"bg",
+				"bg-light"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"cla",
+				"className"
+			],
+			[
+				"nome",
+				"nome"
+			],
+			[
+				"ge",
+				"getElementsByName"
+			],
+			[
+				"backgro",
+				"background-color\tproperty"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"b",
+				"b"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"animation",
+				"animation-duration\tproperty"
+			],
+			[
+				"r",
+				"rotate"
+			],
+			[
+				"ani",
+				"animation\tproperty"
+			],
+			[
+				"animati",
+				"animation-duration\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"id",
+				"id_filme"
+			],
+			[
+				"S",
+				"String"
+			],
+			[
+				"setId",
+				"setId_filme"
+			],
+			[
+				"au",
+				"autor"
+			],
+			[
+				"ID",
+				"id_filme"
+			],
+			[
+				"n",
+				"nomefoto"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"fon",
+				"font-family\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "js/js.js",
+			"settings":
+			{
+				"buffer_size": 10701,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/estilo.css",
+			"settings":
+			{
+				"buffer_size": 3515,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<!DOCTYPE html>\n<html lang=\"pt-br\">\n  <head>\n    <!-- Meta tags Obrigatórias -->\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n\n    <!-- Bootstrap CSS -->\n    <link rel=\"stylesheet\" href=\"https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css\" integrity=\"sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO\" crossorigin=\"anonymous\">\n\n    <!-- FontAwesome -->\n      <link href=\"fontawesome/css/all.css\" rel=\"stylesheet\">\n\n    <!-- jQuery primeiro, depois Popper.js, depois Bootstrap JS -->\n    <script src=\"https://code.jquery.com/jquery-3.3.1.slim.min.js\" integrity=\"sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo\" crossorigin=\"anonymous\"></script>\n    <script src=\"https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js\" integrity=\"sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49\" crossorigin=\"anonymous\"></script>\n    <script src=\"https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js\" integrity=\"sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy\" crossorigin=\"anonymous\"></script>\n\n\n\n    <!-- Custom CSS -->\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"css/estilo.css\">\n\n    <title>Biblioteca | Dashboard</title>\n\n  </head>\n\n  <body id=\"dashboard\" class=\"bg-light\">\n    <header> <!-- Inicio do Header -->\n      \n      <nav class=\"navbar navbar-expand-lg navbar-light bg-light navbar-border\">\n        <!-- Logo -->\n        <a class=\"navbar-brand ml-4\" href=\"#\">BiblioTec</a>\n        <!-- Menu Hamburguer -->\n        <button class=\"navbar-toggler\" type=\"button\" data-toggle=\"collapse\" data-target=\"#menuHamburguer\" aria-controls=\"menuHamburguer\" aria-expanded=\"false\" aria-label=\"Alterna navegação\">\n          <span class=\"text-black navbar-toggler-icon\"></span>\n        </button>\n        <div class=\"collapse navbar-collapse\" id=\"menuHamburguer\">\n          <!-- Menu -->\n          <ul class=\"navbar-nav ml-auto mr-4\">\n\n            <li class=\"nav-item active\">\n              <span id=\"cumprimento\" class=\"nav-link mr-5\"></span>\n            </li>\n\n             <li class=\"nav-item\">\n              <div id=\"user\" class=\"text-center\">\n                <a class=\"nav-link\" href=\"#\"><i class=\"far fa-user\"></i></a>\n              </div>\n            </li>\n\n          </ul>\n\n        </div>\n      </nav>\n  <!-- Menu Lateral -->\n  <aside class=\"c-app\">\n  <div class=\"c-sidebar\">\n    <!-- Sidebar content here -->\n    <ul id=\"side-buttons\" class=\"navbar-nav float-left\" style=\"height: 85vh;\">\n      <!-- Livros -->\n\n      <li class=\"nav-item mt-5\">\n        <div>\n          <button id=\"newbook\" class=\"btn btn-primary float-left mr-4\" data-toggle=\"tooltip\" data-placement=\"right\" title=\"Início\" onclick=\"window.location.href='dashboard.html'\"><i class=\"fas fa-home\"></i></button>\n        </div>\n      </li>\n\n      <li class=\"nav-item mt-3\">\n        <div>\n          <button id=\"newbook\" class=\"btn btn-primary float-left mr-4\" data-toggle=\"tooltip\" data-placement=\"right\" title=\"Cadastrar Livro\" onclick=\"window.location.href='newbook.html'\"><i class=\"fas fa-plus\"></i></button>\n        </div>\n      </li>\n\n      <li class=\"nav-item\">\n        <div>\n          <button id=\"editbook\" class=\"btn btn-primary float-left mr-4\" data-toggle=\"tooltip\" data-placement=\"right\" title=\"Consultar Livro\"><i class=\"far fa-edit\" onclick=\"window.location.href='consultar.html'\"></i></button>\n        </div>\n      </li>\n\n      <li class=\"nav-item\">\n        <div>\n          <button id=\"setbook\" class=\"btn btn-primary float-left mr-4\" data-toggle=\"tooltip\" data-placement=\"right\" title=\"Atribuir Livro\" onclick=\"window.location.href='atribuir.html'\"><i class=\"fas fa-grip-horizontal\"></i></button>\n        </div>\n      </li>\n      <!-- Fim Livros -->\n\n      <!-- Leitores -->\n      <li class=\"nav-item mt-3\">\n        <div>\n          <button id=\"newreader\" class=\"btn btn-primary float-left mr-4\" data-toggle=\"tooltip\" data-placement=\"right\" title=\"Cadastrar Leitor\" onclick=\"window.location.href='newreader.html'\"><i class=\"fas fa-user-plus\"></i></button>\n        </div>\n      </li>\n\n      <li class=\"nav-item\">\n        <div>\n          <button id=\"editreader\" class=\"btn btn-primary float-left mr-4\" data-toggle=\"tooltip\" data-placement=\"right\" title=\"Consultar Leitor\" onclick=\"window.location.href='consultar-leitor.html'\"><i class=\"fas fa-user-cog\"></i></button>\n        </div>\n      </li>\n\n      <!-- Fim Leitores -->\n\n\n\n    </ul>\n  </div>\n  </aside>\n  <!-- Fim do Menu Lateral -->\n\n\n    </header> <!-- Fim do Header -->\n\n    <div class=\"c-body\">\n      <main class=\"c-main\">\n      <!-- Inicio do Main -->\n\n        <div class=\"container\">\n          <!-- Inicio dos Cards -->\n          <div class=\"row mt-5\">\n          <!-- CARD 1 -->\n          <div class=\"col-sm-6 col-lg-4 mb-2\">\n            <div class=\"card\" style=\"max-width: 20rem;\">\n\n              <!-- Card Header -->\n              <div class=\"card-header bg-primary content-center\">\n                <!-- <i class=\"text-white fas fa-book fa-2x\"></i> -->\n              </div>\n\n              <!-- Card Body -->\n              <div class=\"card-body row text-center\">\n\n                <div class=\"col\">\n                  <div id=\"livros-cadastrados\" class=\"text-value-xl\">-</div>\n                  <div class=\"text-uppercase text-muted small\">Livros</div>\n                </div>\n\n                <div class=\"col\">\n                  <div id=\"qtd-atribuidos\" class=\"text-value-xl\">-</div>\n                  <div class=\"text-uppercase text-muted small\">Atribuidos</div>\n                </div>\n\n              </div>\n            </div>\n          </div>\n\n          <!-- CARD 2 -->\n          <div class=\"col-sm-6 col-lg-4 mb-2\">\n            <div class=\"card\" style=\"max-width: 20rem;\">\n\n              <!-- Card Header -->\n              <div class=\"card-header bg-success content-center\">\n                <!-- <i class=\"text-white fas fa-book fa-2x\"></i> -->\n              </div>\n\n              <!-- Card Body -->\n              <div class=\"card-body row text-center\">\n\n                <div class=\"col\">\n                  <div id=\"qtd-leitores\" class=\"text-value-xl\">-</div>\n                  <div class=\"text-uppercase text-muted small\">Retirados</div>\n                </div>\n\n                <div class=\"col\">\n                  <div id=\"livros-retirados\" class=\"text-value-xl\">-</div>\n                  <div class=\"text-uppercase text-muted small\">Leitores</div>\n                </div>\n\n              </div>\n            </div>\n          </div>\n\n          <!-- CARD 3 -->\n          <div class=\"col-sm-6 col-lg-4 mb-2\">\n            <div class=\"card\" style=\"max-width: 20rem;\">\n\n              <!-- Card Header -->\n              <div class=\"card-header bg-warning content-center\">\n                <!-- <i class=\"text-white fas fa-book fa-2x\"></i> -->\n              </div>\n\n              <!-- Card Body -->\n              <div class=\"card-body row text-center\">\n\n                <div class=\"col\">\n                  <div id=\"vencem-hj\" class=\"text-value-xl\">-</div>\n                  <div class=\"text-uppercase text-muted small\">vencem hoje</div>\n                </div>\n\n                <div class=\"col\">\n                  <div id=\"vencidos\" class=\"text-value-xl\">-</div>\n                  <div class=\"text-uppercase text-muted small\">vencidos</div>\n                </div>\n\n              </div>\n            </div>\n          </div>\n\n        </div>\n\n      </div>\n    </main> <!-- Fim do Main -->\n\n    <footer> <!-- Inicio do Footer -->\n      \n\n\n    </footer> <!-- Fim do Footer -->\n\n\n\n\n    <!-- JavaScript Custum -->\n    <script src=\"js/js.js\"></script>\n    <script type=\"text/javascript\">cardsInfo()</script>\n    \n  </body>\n</html>",
+			"file": "dashboard2.html",
+			"file_size": 7979,
+			"file_write_time": 132556719181562939,
+			"settings":
+			{
+				"buffer_size": 7759,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": " <!-- Botões -->\n          <div class=\"container\">\n            <!-- Inicio dos Cards -->\n            <div class=\"row mt-5\">\n              <!-- CARD 1 -->\n              <div class=\"col-sm-6 col-lg-4\">\n                <button class=\"btn btn-primary\">Botão 1</button>\n              </div>\n\n              <div class=\"col-sm-6 col-lg-4\">\n                <button class=\"btn btn-primary\">Botão 1</button>\n              </div>\n\n              <div class=\"col-sm-6 col-lg-4\">\n                <button class=\"btn btn-primary\">Botão 1</button>\n              </div>\n\n            </div>\n          </div>",
+			"settings":
+			{
+				"buffer_size": 588,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Orion/Desktop/NewCode/Projetos/biblioteca",
+		"/C/Users/Orion/Desktop/NewCode/Projetos/biblioteca/img"
+	],
+	"file_history":
+	[
+		"/C/Users/Orion/Desktop/NewCode/Projetos/biblioteca/css/estilo.css",
+		"/C/Users/Orion/Desktop/NewCode/Projetos/biblioteca/index2.html",
+		"/C/Users/Orion/Desktop/NewCode/Projetos/biblioteca/newbook.html",
+		"/C/Users/Orion/Desktop/hero/index.html",
+		"/C/Users/Orion/Desktop/NewCode/Projetos/biblioteca/dashboard.html",
+		"/C/Users/Orion/Desktop/NewCode/Projetos/biblioteca/consultar.html",
+		"/C/Users/Orion/Desktop/NewCode/Projetos/biblioteca/Features",
+		"/C/Users/Orion/Desktop/NewCode/Projetos/biblioteca/index.html",
+		"/C/Users/Orion/Desktop/NewCode/Projetos/biblioteca/css/bootstrap.css",
+		"/C/Users/Orion/Desktop/JS/calc/index.html",
+		"/C/Users/Orion/Desktop/NewCode/Projetos/biblioteca/Home Boostrap.html",
+		"/C/Users/Orion/Desktop/JS/calc/estilo.css",
+		"/C/Users/Orion/Desktop/JS/calc/js.js",
+		"/C/Users/Orion/Desktop/JS/site/estilo.css",
+		"/C/Users/Orion/Desktop/JS/site/index.html",
+		"/C/Users/Orion/Desktop/JS/site/js.js",
+		"/C/xampp/htdocs/home/le_temps.php",
+		"/C/xampp/htdocs/home/conexao-pdo.php",
+		"/C/xampp/htdocs/home/grava_temps.php",
+		"/C/xampp/htdocs/home/GravaAntigo.php",
+		"/C/xampp/htdocs/home/js/json.js",
+		"/C/xampp/htdocs/home/index.html",
+		"/C/Users/Orion/Desktop/JS/estilo.css",
+		"/C/Users/Orion/Desktop/JS/js.js",
+		"/C/Users/Orion/Desktop/JS/index.html",
+		"/C/Users/Orion/Desktop/JS/inicio.html",
+		"/C/Users/Orion/Desktop/NewCode/index.html",
+		"/C/Users/Orion/Desktop/JS/home.html",
+		"/C/Users/Orion/Desktop/NewCode/Home Boostrap.html",
+		"/C/Users/Orion/Desktop/NewCode/css/estilo.css",
+		"/C/Users/Orion/Desktop/index.html",
+		"/C/Users/Orion/Desktop/Udemy/finans/index.html",
+		"/C/Users/Orion/Desktop/HD/Banco/home/js/json.js",
+		"/C/Users/Orion/Desktop/HD/Banco/home/index.html",
+		"/C/Users/Orion/Desktop/HD/Banco/home/LeAntigo.php",
+		"/C/Users/Orion/Desktop/HD/Banco/home/le_temps.php",
+		"/C/Users/Orion/Desktop/Udemy/animation/index.html",
+		"/C/Users/Orion/Desktop/Udemy/animation/estilo.css",
+		"/C/Users/Orion/Desktop/HD/Banco/home/conexao-pdo.php",
+		"/C/xampp/tomcat/webapps/filmes/salvar.jsp",
+		"/C/xampp/tomcat/webapps/filmes/mostradados.jsp",
+		"/C/xampp/tomcat/webapps/filmes/altera.jsp",
+		"/C/xampp/tomcat/webapps/filmes/todos.jsp",
+		"/C/xampp/tomcat/webapps/filmes/index.html",
+		"/C/xampp/tomcat/webapps/filmes/selecionareg.jsp",
+		"/C/xampp/tomcat/webapps/filmes/topo.html",
+		"/C/xampp/tomcat/webapps/filmes/principal.html",
+		"/C/Users/Orion/Desktop/Webapps Carol/webapps/filmes/sss.txt",
+		"/C/xampp/tomcat/webapps/filmes/todos2.jsp",
+		"/C/xampp/tomcat/webapps/filmes/menu.html",
+		"/C/xampp/tomcat/webapps/filmes/esquerda.html",
+		"/C/xampp/tomcat/webapps/filmes/direita.html",
+		"/C/xampp/tomcat/webapps/filmes/WEB-INF/classes/database/BancoSql.java",
+		"/C/Users/Orion/Desktop/Webapps Carol/webapps/filmes/todos.jsp",
+		"/C/Users/Orion/Downloads/selecionareg (1).jsp",
+		"/C/xampp/tomcat/webapps/teste/WEB-INF/classes/database/BancoSql.java",
+		"/C/xampp/tomcat/webapps/filmes/css/estilo.css",
+		"/C/xampp/tomcat/webapps/teste/todos.jsp",
+		"/C/xampp/tomcat/webapps/filmes/banco/BancoSql.jsp",
+		"/C/Users/Orion/Desktop/Webapps Carol/webapps/filmes/WEB-INF/classes/database/BancoSql.class",
+		"/C/xampp/tomcat/webapps/filmes/sobre.html",
+		"/C/xampp/tomcat/webapps/filmes/relatorio.html",
+		"/C/xampp/tomcat/webapps/filmes/inferno.html",
+		"/C/xampp/tomcat/webapps/filmes/rodape.html",
+		"/C/xampp/tomcat/webapps/filmes/Backup/menu.html",
+		"/C/Users/Orion/Desktop/Udemy/Noticias/index.html",
+		"/C/Users/Orion/Desktop/Udemy/Noticias/internacional.html",
+		"/C/Users/Orion/Desktop/Udemy/Noticias/css/estilo.css",
+		"/C/Users/Orion/Desktop/Udemy/Noticias/fotos.html",
+		"/C/Users/Orion/Desktop/Udemy/Noticias/economia.html",
+		"/C/Users/Orion/Desktop/Udemy/Noticias/ciencia.html",
+		"/C/Users/Orion/Desktop/Udemy/Noticias/brasil.html",
+		"/C/Users/Orion/Desktop/Udemy/Noticias/saude.html",
+		"/C/Users/Orion/Desktop/Udemy/Noticias/img/detalhe-topo.png"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 107.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"content",
+			"recuperarTodosRegistros",
+			"data-livro",
+			"qtd-livro",
+			"cardsinfo",
+			"voltar",
+			"data",
+			"hora",
+			"container",
+			"atual",
+			"className",
+			"getElementsByName",
+			"id",
+			"long",
+			"turma",
+			"nome",
+			"matricula",
+			"xfot",
+			"xfoto",
+			"xtur",
+			"xnom",
+			"xmat",
+			"foto",
+			"anolancamento",
+			"xtur",
+			"personagem",
+			"xnom",
+			"xmat",
+			"id_filme",
+			"cadastro_filme",
+			"Integer",
+			"content",
+			"foto",
+			"xfot",
+			"idcomida",
+			"id",
+			"xid",
+			"id",
+			"idcomida",
+			"id",
+			"get",
+			"long",
+			"Procurar",
+			"anolancamento",
+			"anolancame",
+			"id_filme",
+			"parse",
+			"id_filme",
+			"long",
+			"id_filme",
+			"xmat",
+			"xfot",
+			"xfoto",
+			"xtur",
+			"xnom",
+			"xmat",
+			";\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"recuperarLivros",
+			"data",
+			"n-leitor",
+			"datareal",
+			"data",
+			"container-fluid",
+			"input",
+			"style",
+			"getElementById",
+			"autor",
+			"personagem",
+			"id_filme",
+			"foto",
+			"autor",
+			"personagem",
+			"id_filme",
+			"autor",
+			"personagemprinci",
+			"personagem",
+			"id_filme",
+			"teste",
+			"personagemprinci",
+			"nomefoto",
+			"foto",
+			"anolancamento",
+			"autor",
+			"personagemprinci"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "C:\\Users\\Orion\\Desktop\\NewCode\\Projetos\\biblioteca"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "js/js.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10701,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6607,
+								6511
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 4338.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/estilo.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3515,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3420,
+								3420
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1782.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "dashboard2.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7759,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7442,
+								7442
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3748.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 588,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								588,
+								588
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 74.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Collapse"
+			]
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 179.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

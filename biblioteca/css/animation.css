@@ -1,0 +1,7 @@
+@keyframes slideLeft {
+	transform: translateX(80%);
+}
+
+.seila {
+	transform: translateX(80%);
+}

@@ -1,0 +1,45 @@
+.bg {
+	background-color: #696969;
+}
+
+.visor {
+	text-align: right;
+}
+
+#calculadora1 {
+	width: 365px;
+	height: 395px;
+	border-radius: 10px;
+	margin: 0px auto;
+	text-align: center;
+}
+
+#calculadora1 #visor {
+	width: 325px;
+	border-radius: 5px;
+}
+
+#calculadora1 #visor span {
+	font-size: 1.1em;
+	font-weight: 600;
+	line-height: 2.2em;
+	padding-right: 10px;
+}
+
+.btn-calc {
+	width: 75px;
+}
+
+.btn-calc-equal {
+	width: 327px;
+
+}
+
+#calculadora, #puzzle {
+	position: relative;
+	top: 50%;
+}
+
+nav {
+	background-color: rgba(255, 255, 255, 0.8);
+}

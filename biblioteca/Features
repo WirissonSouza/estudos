@@ -1,0 +1,18 @@
+Features:
+
+Cadastrar Livros -> Imprimir Identificação do Livro
+Consultar Livros
+Gerenciar Livros
+
+Cadastrar Leitor -> Imprimir Carteirinha
+Consultar Leitores -> Consultar Multas
+Gerenciar Leitores
+
+----- - ----- - ------ - -----
+
+Envio automatico de e-mail de boas vindas ao cadastrar leitor
+Envio automatico de e-mail ao imprestar livro
+Envio automatico de e-mail proximo a devolução
+
+
+
