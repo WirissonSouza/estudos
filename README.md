@@ -1,6 +1,9 @@
 ## Wirisson Souza
 ## Repositório para estudos de desenvolvimento Web.
 
+<h3>HTML5, CSS3, Bootstrap, JavaScript, EcmaScript 2015</h3>
+<h3>PHP, MYSQL</h3>
+
 ### Tabela de conteúdos
 =================
 <!--ts-->
